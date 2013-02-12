@@ -1,1 +1,5 @@
 The repository contains the source code I wrote to learn about parallel computation.
+Assignment 1: Matrix multiplication on single machine
+Assignment 2: Matrix multiplication on CUDA
+Assignment 3: Simulation based on MPI
+Project: 3-Dimensional Fast Fourier Tranform with 2-Dimensional decomposition
